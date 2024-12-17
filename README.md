@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ilhan laman-Duflot</h1>
-<h3 align="center">👋 Hello, I'm Ilhan Laman-Duflot! 🎓 3rd-year computer science student at Epitech Marseille. 💻 Passionate about tech, problem-solving, and building innovative projects. 🌱 Currently learning advanced programming, web development, and system design. 🚀 Always excited to collaborate and explore new challenges in the tech world. 📫 Feel free to connect with me!</h3>
+<h3 align="center">👋 Hello, I'm Ilhan Laman-Duflot! </h3> 
+<h3 align="center">🎓 3rd-year computer science student at Epitech Marseille. </h3> 
+<h3 align="center"> 💻 Passionate about tech, problem-solving, and building innovative projects. </h3> 
+<h3 align="center"> 🌱 Currently learning advanced programming, web development, and system design. </h3>
+<h3 align="center"> 🚀 Always excited to collaborate and explore new challenges in the tech world. </h3>
+<h3 align="center"> 📫 Feel free to connect with me!</h3>
 
 - 🌱 I’m currently learning **ReactNative, Swift, Solidity**
 

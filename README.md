@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilhan laman-Duflot</h1>
-<h3 align="center">👋 Hello, I'm Ilhan Laman-Duflot! </h3> 
+<h1 align="center">👋 Hello, I'm Ilhan Laman-Duflot! </h1> 
 <h3 align="center">🎓 3rd-year computer science student at Epitech Marseille. </h3> 
 <h3 align="center"> 💻 Passionate about tech, problem-solving, and building innovative projects. </h3> 
 <h3 align="center"> 🌱 Currently learning advanced programming, web development, and system design. </h3>

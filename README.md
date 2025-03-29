@@ -5,7 +5,7 @@
 <h3 align="center"> 🚀 Always excited to collaborate and explore new challenges in the tech world. </h3>
 <h3 align="center"> 📫 Feel free to connect with me!</h3>
 
-- 🌱 I’m currently learning **ReactNative, Swift, Solidity**
+- 🌱 I’m currently learning **ReactNative, Swift**
 
 - 📫 How to reach me **ilhanlaman@gmail.com**
 
